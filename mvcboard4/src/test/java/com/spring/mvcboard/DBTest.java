@@ -23,4 +23,5 @@ public class DBTest {
 		ds.getConnection();
 		System.out.println("정상적으로 DataSource로 연결되었습니다.");
 	}
+	//준비중
 }
